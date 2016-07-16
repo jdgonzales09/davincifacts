@@ -1,0 +1,26 @@
+GetNewFactIntent a fact
+GetNewFactIntent a da vinci fact
+GetNewFactIntent a leonardo da vinci fact
+GetNewFactIntent a leonardo fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a da vinci fact
+GetNewFactIntent tell me a leonardo da vinci fact
+GetNewFactIntent tell me a leonardo fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a da vinci fact
+GetNewFactIntent give me a leonardo da vinci fact
+GetNewFactIntent give me a leonardo fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a da vinci trivia
+GetNewFactIntent tell me a leonardo da vinci trivia
+GetNewFactIntent tell me a leonardo trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a da vinci trivia
+GetNewFactIntent give me a leonardo da vinci trivia
+GetNewFactIntent give me a leonardo trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some da vinci information
+GetNewFactIntent give me some leonardo da vinci information
+GetNewFactIntent give me some leonardo information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
